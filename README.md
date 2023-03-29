@@ -1,8 +1,5 @@
 ### Pablo Gvozdanovic 
 
-<img src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif" alt="">
-
-
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
@@ -20,3 +17,5 @@
  
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+  
+  <img src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif" alt="">
